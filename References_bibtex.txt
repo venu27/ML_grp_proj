@@ -1,0 +1,90 @@
+1. Lauritzen, S. L. (1992). Propagation of probabilities, means and variances in mixed graphical association models. Journal of the American Statistical Association 87, 1098–1108.
+
+
+@article{lauritzen1992propagation,
+  title={Propagation of probabilities, means, and variances in mixed graphical association models},
+  author={Lauritzen, Steffen L},
+  journal={Journal of the American Statistical Association},
+  volume={87},
+  number={420},
+  pages={1098--1108},
+  year={1992},
+  publisher={Taylor \& Francis}
+}
+
+
+
+2. Maybeck, P. S. (1982). Stochastic models, estimation and control, chapter 12.7. Academic Press
+
+
+@book{maybeck1982stochastic,
+  title={Stochastic models, estimation, and control},
+  author={Maybeck, Peter S},
+  year={1982},
+  publisher={Academic press}
+}
+
+
+3. Minka, T. P. (2001). A family of algorithms for approximate Bayesian inference. Doctoral dissertation, Massachusetts Institute of Technology.
+
+
+@phdthesis{minka2001family,
+  title={A family of algorithms for approximate Bayesian inference},
+  author={Minka, Thomas Peter},
+  year={2001},
+  school={Massachusetts Institute of Technology}
+}
+
+
+4. Opper, M. and O. Winther (1999). A Bayesian approach to on-line learning. In D. Saad (Ed.), On-Line Learning in Neural Networks, pp. 363–378.Cambridge University Press.
+
+
+@article{opper1999bayesian,
+  title={A Bayesian approach to on-line learning},
+  author={Opper, Manfred and Winther, Ole},
+  year={1999},
+  publisher={Cambridge University Press}
+}
+
+
+5. Boyen, X. and D. Koller, D. Tractable inference for complex stochastic processes. In Proceedings of the Fourteenth conference on Uncertainty in artificial intelligence, Berkeley, CA, 1998.
+
+
+@article{boyen2013tractable,
+  title={Tractable inference for complex stochastic processes},
+  author={Boyen, Xavier and Koller, Daphne},
+  journal={arXiv preprint arXiv:1301.7362},
+  year={2013}
+}
+
+
+6. https://www.microsoft.com/en-us/research/project/trueskill-ranking-system
+
+
+@misc{microsoftTrueSkillRanking,
+	author = {},
+	title = {{T}rue{S}kill™ {R}anking {S}ystem - {M}icrosoft {R}esearch --- microsoft.com},
+	howpublished = {\url{https://www.microsoft.com/en-us/research/project/trueskill-ranking-system}},
+	year = {},
+	note = {[Accessed 06-10-2023]},
+}
+
+
+7. https://trueskill.org/
+
+@misc{trueskillTrueSkillx2014,
+	author = {},
+	title = {{T}rue{S}kill &#x2014; trueskill 0.4.5 documentation --- trueskill.org},
+	howpublished = {\url{https://trueskill.org/ }},
+	year = {},
+	note = {[Accessed 06-10-2023]},
+} 
+
+8. Christopher M. Bishop, Pattern Recognition and Machine Learning
+
+9. Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, and Thomas B. Schön Machine Learning - A First Course for Engineers and Scientists 
+
+10. Niklas Wahlström. Factor graphs and Message passing. 2023
+
+
+
