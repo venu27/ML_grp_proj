@@ -1,0 +1,23 @@
+1. Lauritzen, S. L. (1992). Propagation of probabilities, means and variances in mixed graphical association models. Journal of the American Statistical Association 87, 1098–1108.
+
+2. Maybeck, P. S. (1982). Stochastic models, estimation and control, chapter 12.7. Academic Press
+
+3. Minka, T. P. (2001). A family of algorithms for approximate Bayesian inference. Doctoral dissertation, Massachusetts Institute of Technology.
+https://tminka.github.io/papers/ep
+
+4. Opper, M. and O. Winther (1999). A Bayesian approach to on-line learning. In D. Saad (Ed.), On-Line Learning in Neural Networks, pp. 363–378.Cambridge University Press.
+
+5. Boyen, X. and D. Koller, D. Tractable inference for complex stochastic processes. In Proceedings of the Fourteenth conference on Uncertainty in artificial intelligence, Berkeley, CA, 1998.
+
+6. https://www.microsoft.com/en-us/research/project/trueskill-ranking-system
+
+7. https://trueskill.org/
+
+8. Christopher M. Bishop, Pattern Recognition and Machine Learning
+
+9. Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, and Thomas B. Schön Machine Learning - A First Course for Engineers and Scientists 
+
+10. Niklas Wahlström. Factor graphs and Message passing. 2023
+
+
+
