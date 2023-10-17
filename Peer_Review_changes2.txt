@@ -1,0 +1,25 @@
+Q1. The notation was changed for Sigma
+
+Q3. The equations was changed to remove the integral using the corollary2. s = [s1, s2] was used to eliminate the confusion in representation.
+
+For conditional distribution we changed the equation to represent in a mathematical form like f(x) = {0 otherwise;1 for a < x < b}
+
+Q4. The variable "t" was marked as the observed variable in the graphical model figure using a different shade for it.
+
+Q5. Gibbs sampler: Histograms plots for different values of K were given so as to infer how k=800 was chosen. As suggested in the comment we rectified the mistake where we had used standard deviation and mean for different plots. We also wrote on the initialization of the parameters we had used.
+
+Q6. ADF section was simplified and made concise.
+
+Q7. It was pointed out by one of the peer reviewers that we used the wrong method to predict the result. Previously we used sign(mu_s1-mu_s2). Now we generate new s1 and s2 and then calculate a t. sign(t) is then used for prediction.
+
+Q8. Factor graphs: The figure was changed to make the notations clear to understand by using bigger & bolder fonts. 
+
+Q9. Our plots for message passing and gibbs sampling didn't align perfectly. Wrong covariance_t|s was used in the p_ts function. This was corrected
+
+Q10. Your own data: the preprocessing steps and initialization values were included as per the comments in the review.
+
+Q11. Peer reviewers pointed out that the section felt a bit unclear. The section was revised as well as some more discussion added.
+
+The reference section-----remove redundant trueskill link
+
+Format: the report was contained in 8 pages. so according the format now. 
